@@ -1,4 +1,7 @@
 # 📄 **Coffee Sales Dashboard — Excel Project**
+## 📷 Dashboard Preview
+
+![Coffee Sales Dashboard](images/Coffee%20Orders%20Dashboard%20Image.png)
 
 ## 📌 **Project Overview**
 
@@ -68,6 +71,7 @@ Excel Pivot Tables and charts were used to analyze:
 
 ## 📈 **Final Dashboard**
 
+The final dashboard also includes a **timeline slicer for Order Date**, allowing users to filter data across multiple years using a horizontal time slider. This enables easy month-by-month and year-by-year exploration.
 The final Excel dashboard includes the following interactive elements:
 
 ### **Filters (Slicers):**
