@@ -10,6 +10,10 @@ This project analyzes coffee sales data using Microsoft Excel, starting from raw
 The purpose of this project is to demonstrate Excel data cleaning, lookup functions, pivot analysis, and dashboard creation skills suitable for business intelligence and reporting.
 
 ---
+## 📥 Download Dashboard
+
+👉 [Click here to download the Coffee Sales Dashboard](https://github.com/asnasharin28/excel-coffee-sales-dashboard-project/blob/main/Coffee%20Orders%20Dashboard.xlsx)
+
 
 ## 📁 **Dataset Description**
 
